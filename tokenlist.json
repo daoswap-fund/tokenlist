@@ -1,0 +1,112 @@
+{
+  "name": "daoswap",
+  "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png",
+  "keywords": [
+    "daoswap",
+    "defi"
+  ],
+  "timestamp": "2020-12-18T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 128,
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "name": "Heco-Peg HBTC Token",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/btc.svg"
+    },
+    {
+      "chainId": 128,
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "name": "Heco-Peg HETH Token",
+      "symbol": "HETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/eth.svg"
+    },
+    {
+      "name": "Heco-Peg HUSD Token",
+      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+      "symbol": "HUSD",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
+    },
+    {
+      "name": "Heco-Peg HDOT Token",
+      "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+      "symbol": "HDOT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+    },
+    {
+      "name": "Heco-Peg HFIL Token",
+      "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+      "symbol": "HFIL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+    },
+    {
+      "name": "Heco-Peg HPT Token",
+      "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+      "symbol": "HPT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
+    },
+    {
+      "name": "Tether COIN",
+      "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
+      "symbol": "HUSDT",
+      "decimals": 6,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 128,
+      "address": "0xBF3dA9338712361caA0100D5a7975D90cDf11Dfc",
+      "name": "Heco-Peg HIDT Token",
+      "symbol": "HIDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/idt.svg"
+    },
+    {
+      "chainId": 128,
+      "address": "0xE9e7fA3DAA57464c669aA203399221e576932129",
+      "name": "Heco-Peg HGET Token",
+      "symbol": "HGET",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/get.svg"
+    },
+    {
+      "chainId": 128,
+      "address": "0xd3E68B6C54b11C2A7353E9Cc0a754ddE5cFcE15a",
+      "name": "DST",
+      "symbol": "DST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png"
+    },
+    {
+      "chainId": 128,
+      "address": "0x3755395a1CCe5A8CA5F8dA2CF0511F8ab20BF26c",
+      "name": "TXC",
+      "symbol": "TXC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/BXC.png"
+    },
+    {
+      "chainId": 128,
+      "address": "0x4aa6c279217a5EbFc90141a12F029e2e40864e56",
+      "name": "TXS",
+      "symbol": "TXS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/BXS.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
