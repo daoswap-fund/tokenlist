@@ -1,6 +1,6 @@
 {
   "name": "daoswap",
-  "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png",
+  "logoURI": "https://raw.githubusercontent.com/daoswap-fund/tokenlist/main/dao.png",
   "keywords": [
     "daoswap",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Heco-Peg HBTC Token",
       "symbol": "HBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/btc.svg"
+      "logoURI": "https://raw.githubusercontent.com/daoswap-fund/tokenlist/main/btc.svg"
     },
     {
       "chainId": 128,
@@ -21,7 +21,7 @@
       "name": "Heco-Peg HETH Token",
       "symbol": "HETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/daoswap-fund/tokenlist/main/eth.svg"
     },
     {
       "name": "Heco-Peg HUSD Token",
@@ -69,7 +69,7 @@
       "name": "Heco-Peg HIDT Token",
       "symbol": "HIDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/idt.svg"
+      "logoURI": "https://raw.githubusercontent.com/daoswap-fund/tokenlist/main/idt.svg"
     },
     {
       "chainId": 128,
@@ -77,7 +77,7 @@
       "name": "Heco-Peg HGET Token",
       "symbol": "HGET",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/get.svg"
+      "logoURI": "https://raw.githubusercontent.com/daoswap-fund/tokenlist/main/get.svg"
     },
     {
       "chainId": 128,
@@ -85,7 +85,7 @@
       "name": "DST",
       "symbol": "DST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png"
+      "logoURI": "https://raw.githubusercontent.com/daoswap-fund/tokenlist/main/dao.png"
     },
     {
       "chainId": 128,
@@ -93,7 +93,7 @@
       "name": "TXC",
       "symbol": "TXC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/BXC.png"
+      "logoURI": "https://raw.githubusercontent.com/daoswap-fund/tokenlist/main/BXC.png"
     },
     {
       "chainId": 128,
@@ -101,7 +101,7 @@
       "name": "TXS",
       "symbol": "TXS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/BXS.png"
+      "logoURI": "https://raw.githubusercontent.com/daoswap-fund/tokenlist/main/BXS.png"
     }
   ],
   "version": {
